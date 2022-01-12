@@ -18,5 +18,5 @@ Me llamo Maximiliano Tomazin, tengo 31 años y vivo en Neuquén capital. Llevo 9
 - 
 
 ### Descripción de la foto:
-![Maneca Records](logo.png)
+![Maneca Records](logo.jpg)
 
